@@ -1,0 +1,2 @@
+# section6-0_iwatareiko
+MUST課題_自分のアカウントでGitHubのリポジトリを作成、クローン
